@@ -1,3 +1,3 @@
 # site_check
 check sites availability
-created and used with ubuntu 14.04
+created and used with linux mint
